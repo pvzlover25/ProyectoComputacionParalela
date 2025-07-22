@@ -5,4 +5,4 @@
 
 ---
 
-Los códigos de este proyecto están presentes en las carpetas "Archivos .cu" y "Archivos .ipynb"
+Los códigos de este proyecto están presentes en las carpetas "Archivos_CU" y "Archivos_IPYNB"
